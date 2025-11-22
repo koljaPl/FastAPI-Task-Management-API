@@ -107,4 +107,5 @@ project-root/
 │
 ├── .gitignore
 ├── README.md
+├── LICENSE
 └── Makefile                           # Common commands
