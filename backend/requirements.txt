@@ -15,6 +15,9 @@ python-jose[cryptography]>=3.3.0
 bcrypt  # Совместимость с Python 3.14
 python-multipart>=0.0.6
 
+# Logging
+loguru>=0.7.0 # Продвинутое логирование
+
 # Redis
 redis==5.0.1
 
